@@ -1,7 +1,7 @@
 #tiulo piola
 
 # Proyecto
-Primer repo
+Repo
 
 ## descripcion
 
